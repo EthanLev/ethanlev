@@ -5,7 +5,7 @@
 <br/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanLev&theme=city_light&card_width=500&layout=compact&langs_count=6" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanLev&theme=city_lights&card_width=500&layout=compact&langs_count=6" alt="Top Languages" />
 <br/>
 
 <!-- Personal Links -->
