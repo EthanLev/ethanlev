@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=EthanLev&show_icons=true&theme=radical&hide=prs,issues&hide_rank=true&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=EthanLev&show_icons=true&theme=city_lights&hide=prs,issues&hide_rank=true&hide_border=true" alt="GitHub Stats" />
 <br/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanLev&theme=radical&card_width=500&layout=compact&langs_count=6" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanLev&theme=city_light&card_width=500&layout=compact&langs_count=6" alt="Top Languages" />
 <br/>
 
 <!-- Personal Links -->
@@ -14,7 +14,7 @@
 <br/><br/>
 
 <!-- Contact -->
-<a href="mailto:levesqueethna9@gmail.com">
+<a href="mailto:levesqueethan9@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://www.linkedin.com/in/ethanlevdev/">
   <img src="https://img.shields.io/badge/Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
