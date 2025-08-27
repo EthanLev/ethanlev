@@ -8,6 +8,65 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanLev&theme=city_lights&card_width=500&layout=compact&langs_count=6" alt="Top Languages" />
 <br/>
 
+<h3 align="center"><samp>💻 Languages and Tools</samp></h3>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQL" />
+      <br>SQL
+    </td>
+    <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45" />
+      <br>Firebase
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" alt="Github" width="45" height="45" />
+      <br>Github
+    </td>
+    <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="48" height="48" alt="Unity" />
+      <br>Unity
+    </td>
+    <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="48" height="48" alt="Unreal Engine" />
+      <br>Unreal
+    </td>
+    <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="48" height="48" alt="Blender" />
+      <br>Blender
+    </td>
+  </tr>   
+</table>
+</div>
+
+
 <!-- Personal Links -->
 <a href="https://ethanlev.github.io/MyPortfolio/">
   <img src="https://img.shields.io/badge/-My%20Portfolio-44BAA2?style=for-the-badge" alt="Portfolio" /></a>
