@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQL" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="48" height="48" alt="MySQL" />
       <br>SQL
     </td>
     <td align="center" width="100">
