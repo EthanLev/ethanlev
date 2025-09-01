@@ -39,8 +39,20 @@
   </tr>
   <tr>
     <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="48" height="48" alt="MySQL" />
-      <br>SQL
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+      <br>React
+    </td>
+    <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+      <br>Node.js
+    </td>
+    <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+      <br>Express
+    </td>
+    <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+      <br>MongoDB
     </td>
     <td align="center" width="100">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45" />
@@ -50,6 +62,8 @@
         <img src="https://skillicons.dev/icons?i=github" alt="Github" width="45" height="45" />
       <br>Github
     </td>
+  </tr>   
+  <tr>
     <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="48" height="48" alt="Unity" />
       <br>Unity
@@ -62,7 +76,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="48" height="48" alt="Blender" />
       <br>Blender
     </td>
-  </tr>   
+  </tr>
 </table>
 </div>
 
