@@ -82,7 +82,7 @@
 
 
 <!-- Personal Links -->
-<a href="https://ethanlev.github.io/MyPortfolio/">
+<a href="https://ethanlev.github.io/my-portfolio">
   <img src="https://img.shields.io/badge/-My%20Portfolio-44BAA2?style=for-the-badge" alt="Portfolio" /></a>
 <br/><br/>
 
