@@ -59,11 +59,15 @@
       <br>Firebase
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" alt="Github" width="45" height="45" />
-      <br>Github
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" />
+      <br>Mongoose
     </td>
   </tr>   
   <tr>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" alt="Github" width="45" height="45" />
+      <br>Github
+    </td>
     <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="48" height="48" alt="Unity" />
       <br>Unity
