@@ -84,13 +84,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino" />
       <br>Arduino
     </td>
-    
-            
-          
   </tr>
 </table>
 </div>
-
 
 <!-- Personal Links -->
 <a href="https://ethanlev.github.io/my-portfolio">
