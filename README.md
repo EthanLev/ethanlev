@@ -1,5 +1,7 @@
 <div align="center">
 
+# 👋 Hey, I'm Ethan!
+
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=EthanLev&show_icons=true&theme=city_lights&hide=prs,issues&hide_rank=true&hide_border=true" alt="GitHub Stats" />
 <br/>
