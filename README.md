@@ -101,5 +101,5 @@
 <a href="https://ethanlev.itch.io/">
   <img src="https://img.shields.io/badge/-My%20Games-red?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" /></a>
 
-  <p align="center" style="color:gray;"><i>building programs and games</i></p>
+  <!-- <p align="center" style="color:gray;"><i>building programs and games</i></p> -->
 </div>
