@@ -17,6 +17,14 @@
       <br>Java
     </td>
     <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
@@ -28,41 +36,7 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
     </td>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-      <br>C#
-    </td>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      <br>C++
-    </td>
   </tr>
-  <tr>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-      <br>React
-    </td>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-      <br>Node.js
-    </td>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-      <br>Express
-    </td>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45" />
-      <br>Firebase
-    </td>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" />
-      <br>Mongoose
-    </td>
-  </tr>   
   <tr>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=github" alt="Github" width="45" height="45" />
@@ -85,6 +59,20 @@
       <br>Arduino
     </td>
   </tr>
+  <tr>
+    <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+      <br>React
+    </td>
+    <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+      <br>Node.js
+    </td>
+    <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45" />
+      <br>Firebase
+    </td>
+  </tr>   
 </table>
 </div>
 
