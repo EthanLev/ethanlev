@@ -58,21 +58,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino" />
       <br>Arduino
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-      <br>React
-    </td>
-    <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-      <br>Node.js
-    </td>
-    <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45" />
-      <br>Firebase
-    </td>
-  </tr>   
+  </tr>  
 </table>
 </div>
 
