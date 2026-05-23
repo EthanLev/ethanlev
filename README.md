@@ -36,7 +36,7 @@ I care about clean architecture, maintainable code, and understanding how system
 
 <div align="center">
 
-## ☕ Backend Development
+## ⚙️ Backend Development
 
 <img src="https://skillicons.dev/icons?i=java,spring,postgres,maven,hibernate,postman,git" />
 
