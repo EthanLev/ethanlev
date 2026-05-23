@@ -26,8 +26,9 @@ Backend Systems · Game Development · Interactive Applications
 
 ## About Me
 
-Building scalable backend services and game systems with clean architecture principles.  
-I care about code that's readable, systems that are reliable, and experiences that feel polished.
+Software engineer focused on backend systems and API development. I work primarily with Java and Spring Boot, building RESTful services with PostgreSQL, JPA, and Hibernate.
+
+I care about clean architecture, maintainable code, and understanding how systems scale and behave under real usage. Outside of backend work, I also build game systems in Unity and Unreal for technical depth and experimentation.
 
 </div>
 
