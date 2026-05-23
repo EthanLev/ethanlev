@@ -71,17 +71,5 @@ I care about clean architecture, maintainable code, and understanding how system
 ---
 
 <div align="center">
-
-## 🚀 Featured Project — Backend REST API
-
-*Spring Boot · PostgreSQL · Hibernate ORM · Maven*
-
-A fully layered backend service with clean REST architecture, JPA-driven database design, and full CRUD operations backed by PostgreSQL. Built with a focus on separation of concerns across controller, service, and repository layers.
-
-</div>
-
----
-
-<div align="center">
 <sub>Open to collaboration — reach out anytime.</sub>
 </div>
