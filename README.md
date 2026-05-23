@@ -50,7 +50,7 @@ I care about clean architecture, maintainable code, and understanding how system
 
 ## 🎮 Game Development
 
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender,csharp,cpp" />
+<img src="https://skillicons.dev/icons?i=unity,unreal,blender,cs,cpp" />
 
 `Unity (C#)` `Unreal Engine (C++)` `Blender`
 
