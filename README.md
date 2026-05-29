@@ -26,7 +26,7 @@ Backend Systems · Game Development · Interactive Applications
 
 ## About Me
 
-Software engineer focused on backend systems and API development. I work primarily with Java and Spring Boot, building RESTful services with PostgreSQL, JPA, and Hibernate.
+Software engineer student focused on backend systems and API development. I work primarily with Java and Spring Boot, building RESTful programs with PostgreSQL, JPA, and Hibernate.
 
 I care about clean architecture, maintainable code, and understanding how systems scale and behave under real usage. Outside of backend work, I also build game systems in Unity and Unreal for technical depth and experimentation.
 
